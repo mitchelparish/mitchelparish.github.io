@@ -19,5 +19,5 @@ My first computer was a Hewlett-Packard running Windows 3.1 – I can remember t
 
 In college my involvement with technology took a back seat as I explored many different majors attempting to find the one that would allow me to graduate the quickest and easiest. After that I spent eight years with the federal government, where literally no one knows how to use a computer and even if they did, the Dells ordered en masse don’t work anyway. 
 
-Some other things happened along the way, but now I’m here, two weeks into a coding bootcamp. My goal is to learn – to understand – how software works and how I can use it to make other things work. **We can't let Carl Sagan down. **
+Some other things happened along the way, but now I’m here, two weeks into a coding bootcamp. My goal is to learn – to understand – how software works and how I can use it to make other things work. We can't let Carl Sagan down.
 
