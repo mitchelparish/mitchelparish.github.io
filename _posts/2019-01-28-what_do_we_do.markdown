@@ -5,7 +5,6 @@ date:       2019-01-28 21:39:42 -0500
 permalink:  what_do_we_do
 ---
 
-
 "We've arranged a global civilization in which most crucial elements profoundly depend on science and technology. We have also arranged things so that almost no one understands science and technology. This is a prescription for disaster. We might get away with it for a while, but sooner or later this combustible mixture of ignorance and power is going to blow up in our faces."
 
 Carl Sagan
