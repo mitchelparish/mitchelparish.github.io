@@ -10,7 +10,7 @@ I had a really great time building my Rails project. Due to the birth of some ne
 
 I’d been planning a version of this project since before starting Flatiron School. I live in Colorado and I love camping, therefore every weekend (when there isn’t 4 feet of snow on the ground) I go sleep outside. Camping in Colorado goes much the way fishing anywhere goes, the longer you do it the more secret spots you accumulate. I wanted a way to log these secret spots and share them with my friends and vice versa. The end result is Incampment, a basic Rails app that allows a user to sign-in, create new camping spots and leave reviews on others. Future functionality would include a friends network that would allow you to share certain spots with specific friends and generally have more control over who views your campsites – they’re secret after all….
 
-Some Thoughts on Preparation. 
+**Some Thoughts on Preparation. **
 
 Through these first three projects I’ve really come to appreciate the value of preparation. I started out this time by taking an entire day to sketch out the functionality of the app, map the object relationships and even write out the routes I wanted to be using. When I started building and ran into confusion I would look at these notes and they helped guide me to the right solution. I can’t stress enough how much this helped. 
 
