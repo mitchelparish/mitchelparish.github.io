@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Rails-y Fun Time"
+title:      "Rail[s]-y Fun Time"
 date:       2019-04-24 12:34:31 -0400
 permalink:  rail_s_-y_fun_time
 ---
